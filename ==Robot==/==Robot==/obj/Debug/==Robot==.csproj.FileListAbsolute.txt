@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\bin\Debug\==Robot==.exe.config
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\bin\Debug\==Robot==.exe
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\bin\Debug\==Robot==.pdb
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\obj\Debug\==Robot==.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\obj\Debug\==Robot==.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\obj\Debug\==Robot==.exe
+C:\Users\Admin\Desktop\Poo-Tema\==Robot==\==Robot==\obj\Debug\==Robot==.pdb
